@@ -1,0 +1,11 @@
+[package]
+name = "portio"
+version = "0.1.0"
+authors = ["nathanfaucett <nathanfaucett@gmail.com>"]
+
+keywords = ["portio", "port", "io"]
+description = "rust port io helper"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/nathanfaucett/rs-portio.git"
+homepage = "https://github.com/nathanfaucett/rs-portio"
